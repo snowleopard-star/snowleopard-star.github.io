@@ -1,0 +1,10 @@
+body {
+    background-image: radial-gradient(rgb(70, 43, 106), rgb(16, 3, 49));
+    background-repeat: no-repeat;
+}
+.text {
+    color: rgb(204, 197, 197);
+}
+.header {
+    color: rgb(204, 197, 197);
+}
