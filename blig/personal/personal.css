@@ -1,0 +1,27 @@
+body {
+    background-image: radial-gradient(rgb(70, 43, 106), rgb(16, 3, 49));
+    background-repeat: no-repeat;
+}
+
+p {
+    color: rgb(204, 197, 197);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(204, 197, 197);
+}
+
+.maintext {
+    text-align: center;
+    color: rgb(204, 197, 197);
+}
+
+
+a:link {
+    color: rgb(100, 123, 239); 
+  }
+
+  a:visited {
+    color: rgb(100, 123, 239); 
+}
